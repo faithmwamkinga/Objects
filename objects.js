@@ -109,6 +109,5 @@ const car = {
   model: 'Ranger',
   year: 2023,
 }
-
 console.log(`Make: ${this.make}, Model: ${this.model}, Year: ${this.year}`);
 myCar()
